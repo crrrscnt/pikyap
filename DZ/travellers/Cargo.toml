@@ -1,0 +1,27 @@
+[package]
+name = "travellers"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = { version = "0.4.31", features = ["serde"] }
+csv = "1.3.0"
+postgres = { version = "0.19.7", features = ["with-chrono-0_4"] }
+serde = "1.0.192"
+sqlx = { version = "0.7.2", features = ["chrono", "postgres", "macros", "runtime-tokio"] }
+tokio = { version = "1.33.0", features = ["full"] }
+
+# Crate - исполняемый файл или библиотека в языке Rust.
+#       установка: 'cargo add ...'
+# chrono - функции, необходимые для правильных операций с
+#       датами и временем в григорианском календаре.
+# csv - обеспечивает чтение и запись CSV-файлов.
+# postgres - обеспечивает работу с базами в PostgreSQL.
+# serde - библиотека (крейт) предназначена для сериализации и
+#       десериализации объектов, поддерживает большинство популярных
+#       форматов (json, yaml, toml, ...).
+# sqlx - это асинхронный, независящий от рантайма крейт,
+#       позволяющий использовать проверяемые во время компиляции запросы.
+# tokio - обработчик событий для работы с асинхронным вводом/выводом.

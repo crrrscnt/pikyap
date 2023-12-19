@@ -1,0 +1,10 @@
+C:\Users\nanny\Desktop\rust\hello\travellers\target\debug\deps\libpostgres_types-bc30ea1cf71451c3.rmeta: C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\lib.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\chrono_04.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\pg_lsn.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\private.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\special.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\type_gen.rs
+
+C:\Users\nanny\Desktop\rust\hello\travellers\target\debug\deps\postgres_types-bc30ea1cf71451c3.d: C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\lib.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\chrono_04.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\pg_lsn.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\private.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\special.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\type_gen.rs
+
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\lib.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\chrono_04.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\pg_lsn.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\private.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\special.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\postgres-types-0.2.6\src\type_gen.rs:

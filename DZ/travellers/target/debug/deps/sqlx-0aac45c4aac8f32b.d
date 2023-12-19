@@ -1,0 +1,11 @@
+C:\Users\nanny\Desktop\rust\hello\travellers\target\debug\deps\libsqlx-0aac45c4aac8f32b.rmeta: C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\mod.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros\mod.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\ty_match.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.md C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros/test.md C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\install_drivers_note.md
+
+C:\Users\nanny\Desktop\rust\hello\travellers\target\debug\deps\sqlx-0aac45c4aac8f32b.d: C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\mod.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros\mod.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\ty_match.rs C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.md C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros/test.md C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\install_drivers_note.md
+
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\mod.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros\mod.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\ty_match.rs:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\lib.md:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\macros/test.md:
+C:\Users\nanny\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.2\src\any\install_drivers_note.md:
